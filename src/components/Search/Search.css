@@ -1,0 +1,18 @@
+.youtubelogo{
+   position: relative;
+    width: 7%;
+    left: 40px;
+    top: 7px;
+}
+.input2{
+    width: 500px;
+    position: relative;
+    /* margin: 50px 600px; */
+    left: 500px;
+    top: 30px;
+}
+.button{
+    position: relative;
+    left: 510px;
+    top: 25px;
+}
